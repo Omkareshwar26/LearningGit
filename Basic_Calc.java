@@ -25,7 +25,7 @@ public class Basic_Calc {
                 break;
             case '%' : System.out.println(number1 % number2);
                 break;
-            default : System.out.println("Choosen wrong operator !!");
+            default : System.out.println(" wrong operator !!");
             
         }
     }
